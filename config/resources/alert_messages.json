@@ -1,0 +1,7 @@
+{
+  "cpu_high": "Uso de CPU elevado detectado",
+  "memory_low": "Memoria disponible baja",
+  "temperature_out_of_range": "Temperatura fuera del rango normal",
+  "disk_space_low": "Espacio en disco bajo",
+  "network_down": "Conectividad de red perdida"
+}

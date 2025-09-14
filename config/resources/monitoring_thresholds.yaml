@@ -1,0 +1,5 @@
+cpu_max_percentage: 80
+disk_min_free_gb: 1
+memory_min_mb: 100
+temperature_max: 80
+temperature_min: 20

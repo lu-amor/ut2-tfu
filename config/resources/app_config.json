@@ -1,0 +1,8 @@
+{
+  "app_name": "Sistema de Monitoreo",
+  "version": "1.0.0",
+  "debug": true,
+  "max_alerts": 1000,
+  "default_check_interval": 10,
+  "alert_retention_days": 30
+}
