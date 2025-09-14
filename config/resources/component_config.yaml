@@ -1,0 +1,7 @@
+auto_restart: true
+component_timeout: 30
+enabled_components:
+- monitoring
+- alerting
+- logging
+max_retries: 3
